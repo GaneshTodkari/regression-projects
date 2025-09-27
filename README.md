@@ -6,6 +6,10 @@ This repository indexes all of my machine learning regression-based projects. Th
 
 ## 🔗 Projects
 
+### 1. 📈 Rossmann Sales Forecasting
+Forecast daily store sales using historical data, promotions, and store features with an XGBoost regression model.
+🔗 [Rossmann Sales Forecasting](https://github.com/GaneshTodkari/rossmann-sales-prediction)
+
 ### 1. 🍽️ Zomato Rating Prediction
 Predict restaurant ratings using customer data, location, cuisine, and service features with linear regression.
 
